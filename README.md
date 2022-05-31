@@ -1,4 +1,5 @@
 # Room
-Training project: Room escape Unity game by youtube lessons of **Dimension Omega** 
+ Bu oyun içerisinde puzzle ,eşleştirme vb. bazı 2d oyunları
+tamamlayıp gerekli nesneleri toplayarak ilerleyebilirsiniz.Oyun 6 odadan oluşuyor ,odalar
+arasında şuanlık herhangi bir kilit sistemi bulunmuyor.
 
-![Alt Text](https://github.com/wladweb/room/blob/master/Assets/Sprites/room1.png)
